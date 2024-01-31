@@ -10,3 +10,6 @@ __pycache__/
 
 # Export folder and all its contents
 export/
+
+# any xlsx files
+*.xlsx
