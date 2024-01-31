@@ -1,0 +1,12 @@
+
+# Ignore environment variables from the shell
+.env
+
+# Visual Studio Code files
+.vscode
+
+# pycache 
+__pycache__/
+
+# Export folder and all its contents
+export/
